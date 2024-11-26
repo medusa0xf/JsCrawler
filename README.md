@@ -15,4 +15,4 @@ This Python-based tool is designed to crawl a web application, extract all JavaS
    pip install -r requirements.txt
 3. Run the script
    ```bash
-   python3 jscrawler.py
+   python3 JsCrawler.py
