@@ -5,8 +5,8 @@ This Python-based tool is designed to crawl a web application, extract all JavaS
 
     Clone the repository:
 
-git clone https://github.com/yourusername/js-file-crawler.git
-cd js-file-crawler
+git clone https://github.com/medusa0xf/JsCrawler
+cd JsCrawler
 
 Install the dependencies:
 
