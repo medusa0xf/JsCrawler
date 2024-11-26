@@ -4,6 +4,7 @@ This Python-based tool is designed to crawl a web application, extract all JavaS
 # Installation
 
     Clone the repository:
+    git clone https://github.com/medusa0xf/JsCrawler
 
 git clone https://github.com/medusa0xf/JsCrawler
 cd JsCrawler
@@ -14,6 +15,4 @@ pip install -r requirements.txt
 
 #Usage
 
-    Run the script:
-
-python3 jscrawler.py
+    Run the script: python3 jscrawler.py
