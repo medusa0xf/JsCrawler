@@ -16,10 +16,10 @@ This Python-based tool is designed to crawl a web application, extract all JavaS
 3. Run the script
    ```bash
    python3 JsCrawler.py
-![Image Alt Text](https://github.com/medusa0xf/JsCrawler/blob/master/Screenshot%202024-11-26%20210516.png)
+![Image Alt Text](https://github.com/medusa0xf/JsCrawler/blob/master/image1.png)
 
 
 
 
 
-![Image Alt Text](https://github.com/medusa0xf/JsCrawler/blob/master/Screenshot%202024-11-26%20210537.png)
+![Image Alt Text](https://github.com/medusa0xf/JsCrawler/blob/master/image2.png)
